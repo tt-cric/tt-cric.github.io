@@ -7,6 +7,9 @@ tags = ["python", "tkinter", "operating system", "algorithm", "education"]
 weight = 10
 +++
 
+Project link: [https://github.com/tt-cric/DemOS](https://github.com/tt-cric/DemOS)
+
+Live at: [https://dang-os-visualizer.vercel.app/](https://dang-os-visualizer.vercel.app/)
 
 ## Overview
 
