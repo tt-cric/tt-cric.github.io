@@ -7,13 +7,15 @@ weight = 1
 # The Lab
 
 A collective of students from Kathmandu University building things that make
-our syllabus—and the theory behind it—actually fun to explore.
+~our syllabus—and the theory behind it—actually~ everything fun to explore.
 
 ### What is this?
-We started this organization to bridge the gap between abstract classroom
+Initially, we started this organization to bridge the gap between abstract classroom
 theory and hands-on implementation. While our curriculum gives us the
 foundation, we believe the best way to understand a system is to build it,
 visualize it, and break it.
+
+Currently, this organization serves as a place to collect and organize projects/things including but not limited to our initial motive.
 
 ### Blogs
 See [blogs](./blogs/) section for updates.
