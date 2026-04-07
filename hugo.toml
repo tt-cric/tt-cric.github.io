@@ -50,7 +50,7 @@ enableRobotsTXT = true
 # https://gohugo.io/configuration/markup/#highlight
 [markup]
   [markup.highlight]
-    style = 'friendly'
+    style = 'vim'
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
