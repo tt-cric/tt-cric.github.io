@@ -25,7 +25,7 @@ See [projects](./projects/) section for our current projects.
 
 ### Join the Org
 If you have an idea for a tool, a visualization, or a project that would help others (or yourself) understand a concept better:
-1. Reach out to get an invite to the GitHub Organization.
+1. Reach out to get an invite to the [Github](https://github.com/tt-cric/) Organization.
 2. Spin up a new repository.
 3. Keep it simple, keep it documented.
 
